@@ -20,7 +20,7 @@ class Solution(object):
             if letter in letters_n:
                 letters_n[letter] = letters_n[letter] + 1
             else: 
-                letters_n[letter] = 1  # Fixed: should start at 1 for first occurrence
+                letters_n[letter] = 1
 
         for letter in m:
             if letter in letters_m:
