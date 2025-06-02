@@ -14,6 +14,7 @@ data structure and algorithms preparation
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0015-3sum) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -23,4 +24,12 @@ data structure and algorithms preparation
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
