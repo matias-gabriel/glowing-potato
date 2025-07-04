@@ -33,6 +33,7 @@ data structure and algorithms preparation
 | ------- |
 | [0015-3sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
+| [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
 ## Sorting
 |  |
 | ------- |
@@ -62,4 +63,8 @@ data structure and algorithms preparation
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/matias-gabriel/glowing-potato/tree/master/0744-network-delay-time) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
