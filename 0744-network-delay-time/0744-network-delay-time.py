@@ -1,7 +1,7 @@
 MAX_VALUE = 1000000
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        adjacency_matrix = [["NONE" for _ in range(n)] for _ in range(n)] 
+        adjacency_matrix = [[-1 for _ in range(n)] for _ in range(n)] 
 
         k_in_matrix = k - 1
 
@@ -28,7 +28,7 @@ class Solution:
 
 
             for node, node_weight in enumerate(adjacency_matrix[current_node]):
-                if node != current_node and node_weight != "NONE":
+                if node != current_node and node_weight != -1:
                     if node not in visited or (node_weight + current_node_weight < visited[node]):
                         queue.append((node, current_node_weight + node_weight))
 
