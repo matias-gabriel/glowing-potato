@@ -7,9 +7,11 @@ data structure and algorithms preparation
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -18,6 +20,7 @@ data structure and algorithms preparation
 | [0019-remove-nth-node-from-end-of-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
 ## String
 |  |
