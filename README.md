@@ -21,6 +21,7 @@ data structure and algorithms preparation
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -46,6 +47,7 @@ data structure and algorithms preparation
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,4 +72,12 @@ data structure and algorithms preparation
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
