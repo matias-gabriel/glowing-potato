@@ -48,11 +48,13 @@ data structure and algorithms preparation
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0744-network-delay-time](https://github.com/matias-gabriel/glowing-potato/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -77,9 +79,18 @@ data structure and algorithms preparation
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
