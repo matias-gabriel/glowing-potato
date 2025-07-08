@@ -1,5 +1,5 @@
 # glowing-potato
-data structure and algorithms preparation
+data structure and algorithms
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
