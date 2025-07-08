@@ -96,4 +96,8 @@ data structure and algorithms
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
