@@ -55,6 +55,7 @@ data structure and algorithms
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/matias-gabriel/glowing-potato/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -89,8 +90,10 @@ data structure and algorithms
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
