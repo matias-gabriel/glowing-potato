@@ -13,6 +13,7 @@ data structure and algorithms
 | ------- |
 | [0202-happy-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/matias-gabriel/glowing-potato/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,12 +34,14 @@ data structure and algorithms
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/matias-gabriel/glowing-potato/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/matias-gabriel/glowing-potato/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
