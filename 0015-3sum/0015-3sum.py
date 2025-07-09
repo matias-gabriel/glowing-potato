@@ -13,7 +13,7 @@ class Solution(object):
                 break
             if number > 0:
                 break
-            if index > 0 and number == sorted_array[index-1]:
+            if index > 0 and number == sorted_array[index - 1]:
                 continue
 
             left_pointer = index + 1
@@ -21,16 +21,27 @@ class Solution(object):
 
             # -2, 0, 1, 1 , 2
             while left_pointer < right_pointer:
-                current_result = [number, sorted_array[left_pointer], sorted_array[right_pointer]]
+                current_result = [
+                    number,
+                    sorted_array[left_pointer],
+                    sorted_array[right_pointer],
+                ]
                 current_sum = sum(current_result)
-                
+
                 if current_sum == 0:
                     result_array.append(current_result)
                     right_pointer = right_pointer - 1
                     left_pointer = left_pointer + 1
-                    while left_pointer < right_pointer and sorted_array[right_pointer] == sorted_array[right_pointer+1]:
+                    while (
+                        left_pointer < right_pointer
+                        and sorted_array[right_pointer]
+                        == sorted_array[right_pointer + 1]
+                    ):
                         right_pointer = right_pointer - 1
-                    while left_pointer < right_pointer and sorted_array[left_pointer] == sorted_array[left_pointer-1]:
+                    while (
+                        left_pointer < right_pointer
+                        and sorted_array[left_pointer] == sorted_array[left_pointer - 1]
+                    ):
                         left_pointer = left_pointer + 1
                 elif current_sum > 0:
                     right_pointer = right_pointer - 1
@@ -38,9 +49,3 @@ class Solution(object):
                     left_pointer = left_pointer + 1
 
         return result_array
-
-
-
-
-                
-        

@@ -3,6 +3,7 @@ def swap(i, j, word):
     word[i] = word[j]
     word[j] = aux
 
+
 class Solution:
     def reverseWords(self, s: str) -> str:
         word = s.strip().split()
@@ -12,9 +13,7 @@ class Solution:
 
         while left < right:
             swap(left, right, word)
-            left+=1
-            right-=1
+            left += 1
+            right -= 1
 
         return " ".join(word)
-
-        

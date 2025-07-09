@@ -6,7 +6,7 @@ def hasConflict(position, board):
     diagonal = (position[0] - 1, position[1] - 1, position[1] + 1)
 
     while diagonal[0] > -1:
-        if diagonal[1] > - 1 and board[diagonal[0]] == diagonal[1]:
+        if diagonal[1] > -1 and board[diagonal[0]] == diagonal[1]:
             return True
         elif diagonal[2] < len(board) and board[diagonal[0]] == diagonal[2]:
             return True
@@ -15,8 +15,9 @@ def hasConflict(position, board):
 
     return False
 
+
 def calcNQueens(idx, board, n):
-    if board[n-1] is not None:
+    if board[n - 1] is not None:
         print(board)
         return 1
 
@@ -25,13 +26,13 @@ def calcNQueens(idx, board, n):
     for j in range(n):
         if not hasConflict((idx, j), board):
             board[idx] = j
-            result+=calcNQueens(idx + 1, board, n)
+            result += calcNQueens(idx + 1, board, n)
             board[idx] = None
 
     return result
-    
+
+
 class Solution(object):
-        
     def totalNQueens(self, n):
         """
         :type n: int
@@ -40,4 +41,3 @@ class Solution(object):
         board = [None] * n
 
         return calcNQueens(0, board, n)
-         

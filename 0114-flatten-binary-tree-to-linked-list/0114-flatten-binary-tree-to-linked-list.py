@@ -5,14 +5,16 @@
 #         self.left = left
 #         self.right = right
 
+
 def traversal(node, memo):
     if not node:
-      return
+        return
     memo.append(node)
     if node.left:
-      traversal(node.left, memo)
+        traversal(node.left, memo)
     if node.right:
-      traversal(node.right, memo)
+        traversal(node.right, memo)
+
 
 class Solution:
     def flatten(self, root: Optional[TreeNode]) -> None:
@@ -21,16 +23,14 @@ class Solution:
         """
 
         memo = []
-        traversal(root,memo)
+        traversal(root, memo)
 
         prev = None
 
         while len(memo):
-          last = memo.pop()
+            last = memo.pop()
 
-          last.right = prev
-          last.left = None
+            last.right = prev
+            last.left = None
 
-          prev = last
-
-        
+            prev = last

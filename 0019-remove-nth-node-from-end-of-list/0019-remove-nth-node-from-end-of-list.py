@@ -1,8 +1,9 @@
 # Definition for singly-linked list.
 class ListNode(object):
-     def __init__(self, val=0, next=None):
-         self.val = val
-         self.next = next
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
 
 class Solution(object):
     def removeItem(self, parent, item):
@@ -20,11 +21,10 @@ class Solution(object):
         finder_node = None
         finder_node_parent = None
 
-        # 1  
+        # 1
 
         if head.next == None:
             return head.next
-        
 
         while new_head != None:
             start += 1
@@ -41,4 +41,3 @@ class Solution(object):
         else:
             self.removeItem(finder_node_parent or head, finder_node)
         return head
-        

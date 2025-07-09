@@ -26,7 +26,3 @@ class Solution:
         finder.next = finder.next.next
 
         return head
-
-        
-
-        
