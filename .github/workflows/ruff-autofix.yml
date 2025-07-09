@@ -29,7 +29,7 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "style: auto-format and lint with ruff"
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
-          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          commit_message: "fix(github-action): format and lint with ruff"
+          commit_user_name: "matias-gabriel"
+          commit_user_email: "matias.santos.mail@gmail.com"
+          commit_author: "matias-gabriel <matias.santos.mail@gmail.com>"
