@@ -1,0 +1,33 @@
+name: Ruff Autofix
+
+on:
+  push:
+    branches:
+      - main # Or your default branch
+
+jobs:
+  ruff-format-and-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x" # Specify your project's Python version
+
+      - name: Install Ruff
+        run: pip install ruff
+
+      - name: Run Ruff to fix and format
+        run: |
+          ruff format .
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "style: auto-format and lint with ruff"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
