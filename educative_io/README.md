@@ -12,3 +12,4 @@ Below is a list of the completed problems, categorized by the primary data struc
 | :------------------------------- | :------------------------------------ |
 | Remove Nth Node From End of List | `remove-nth-node-from-end-of-list.py` |
 | Valid Word Abbreviation          | `valid-word-abbreviation.py`          |
+| Strobogrammatic Number           | `strobogrammatic-number.py`           |
