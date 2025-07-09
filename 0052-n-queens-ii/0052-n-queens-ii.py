@@ -1,5 +1,5 @@
 def hasConflict(position, board):
-    for i in board:
+    for i in board:    
         if position[1] == i:
             return True
 
