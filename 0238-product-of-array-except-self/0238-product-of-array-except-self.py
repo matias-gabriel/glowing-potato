@@ -5,13 +5,13 @@ class Solution:
 
         for idx, num in enumerate(nums):
             if num == 0:
-                zeroes_position_set.add(idx)
+                zeroes_position_set.add(idx) 
+                if len(zeroes_position_set) > 1:
+                    return [0] * len(nums)
             else:
                 product = product * num
 
         result = []
-        if len(zeroes_position_set) > 1:
-            return [0] * len(nums)
 
         if len(zeroes_position_set) == 1:
             result = [0] * len(nums)
@@ -23,3 +23,6 @@ class Solution:
             result.append(int(product / i))
 
         return result
+
+                
+
