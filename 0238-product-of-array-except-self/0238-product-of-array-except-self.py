@@ -1,13 +1,11 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         zeroes_position_set = set([])
-        [1, 2, 0, 3, 0, 4]
-
         product = 1
 
         for idx, num in enumerate(nums):
             if num == 0:
-                zeroes_position_set.add(idx)
+                zeroes_position_set.add(idx) 
             else:
                 product = product * num
 
@@ -25,3 +23,6 @@ class Solution:
             result.append(int(product / i))
 
         return result
+
+                
+
