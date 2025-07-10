@@ -1,4 +1,4 @@
-name: Update README Stats
+name: Autofix and Update Docs
 
 on:
   push:
@@ -6,8 +6,11 @@ on:
       - main
 
 jobs:
-  update-readme:
+  fix-and-update:
+    # This is the most important part:
+    # It prevents the workflow from running in a loop when it pushes its own commit.
     if: github.actor != 'github-actions[bot]'
+
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -15,16 +18,29 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+
+      # --- Step 1: Run Ruff ---
+      - name: Install Ruff
+        run: pip install ruff
+
+      - name: Run Ruff to fix and format code
+        run: ruff format .
+
+      # --- Step 2: Update README ---
       - name: Run README update script
         run: python .github/scripts/update_readme.py
+
+      # --- Step 3: Commit all changes ---
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "docs(readme): update exercise stats"
+          # A single commit message for all automated changes
+          commit_message: "chore(bot): autofix and update docs"
           commit_user_name: "matias-gabriel"
           commit_user_email: "matias.santos.mail@gmail.com"
           commit_author: "matias-gabriel <matias.santos.mail@gmail.com>"
