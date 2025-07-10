@@ -8,7 +8,7 @@ END_TAG = "<!---Exercise counting End-->"
 EDUCATIVE_DIR = "educative_io"
 
 # --- Logic ---
-print("Starting README update script (non-regex method)...")
+print("Starting README update script...")
 
 # 1. Count the exercises
 leetcode_count = sum(
@@ -19,6 +19,7 @@ if os.path.isdir(EDUCATIVE_DIR):
     educative_count = sum(
         1 for item in os.listdir(EDUCATIVE_DIR) if item.endswith(".py")
     )
+total_count = leetcode_count + educative_count
 
 # 2. Read the existing README content
 try:
@@ -34,16 +35,23 @@ try:
     end_index = content.index(END_TAG)
 except ValueError:
     print(
-        f"ERROR: Could not find start/end tags in {README_PATH}. Check for exact match including spaces. Exiting."
+        f"ERROR: Could not find start/end tags in {README_PATH}. "
+        "Check for exact match including spaces. Exiting."
     )
     exit(1)
 
-# 4. Build the new content block
+# 4. Build the new content block with a total row
 new_stats_block = (
-    f"\n* **LeetCode:** {leetcode_count}\n* **Educative.io:** {educative_count}\n"
+    "\n"
+    "| Platform         | Problems Solved |\n"
+    "|------------------|-----------------|\n"
+    f"| 💻 [LeetCode](https://leetcode.com/u/matioias/)      | {leetcode_count}          |\n"
+    f"| 📚 [Educative.io](https://www.educative.io/courses/grokking-coding-interview-in-python)  | {educative_count}          |\n"
+    "|------------------|-----------------|\n"
+    f"| 📊 **Total** | **{total_count}** |\n"
 )
 
-# 5. Build the final README content by combining the parts
+# 5. Build the final README content
 updated_content = (
     content[: start_index + len(START_TAG)] + new_stats_block + content[end_index:]
 )
@@ -53,5 +61,6 @@ with open(README_PATH, "w", encoding="utf-8") as f:
     f.write(updated_content)
 
 print(
-    f"Successfully updated README: LeetCode={leetcode_count}, Educative.io={educative_count}"
+    f"Successfully updated README: LeetCode={leetcode_count}, "
+    f"Educative.io={educative_count}, Total={total_count}"
 )
