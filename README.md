@@ -1,5 +1,8 @@
-# glowing-potato
-data structure and algorithms
+# glowing-potato 🥔✨
+
+A repository dedicated to solving Data Structures and Algorithms problems.
+
+## 📊 Automatic Progress Tracker
 <!---Exercise counting Start-->
 | Platform         | Problems Solved |
 |------------------|-----------------|
