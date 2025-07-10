@@ -1,0 +1,30 @@
+name: Update README Stats
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Run README update script
+        run: python .github/scripts/update_readme.py
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs(readme): update exercise stats"
+          commit_user_name: "matias-gabriel"
+          commit_user_email: "matias.santos.mail@gmail.com"
+          commit_author: "matias-gabriel <matias.santos.mail@gmail.com>"
