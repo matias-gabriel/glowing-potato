@@ -1,8 +1,15 @@
-# glowing-potato 🥔✨
+<h1 align="center">glowing-potato 🥔✨</h1>
 
-A repository dedicated to solving Data Structures and Algorithms problems.
+<p align="center">
+  A repository dedicated to solving Data Structures and Algorithms problems.
+</p>
+<p align="center">
+  <img width="300" height="300" alt="repository-banner" src="https://github.com/user-attachments/assets/325a1209-0ab0-49a8-91bf-50121c3c1b74" />
+</p>
 
-## 📊 Automatic Progress Tracker
+<div align="center">
+  
+## 📊 Progress
 <!---Exercise counting Start-->
 | Platform         | Problems Solved |
 |------------------|-----------------|
@@ -11,6 +18,8 @@ A repository dedicated to solving Data Structures and Algorithms problems.
 |------------------|-----------------|
 | 📊 **Total** | **23** |
 <!---Exercise counting End-->
+
+</div>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
