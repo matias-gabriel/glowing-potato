@@ -40,7 +40,7 @@ except ValueError:
 
 # 4. Build the new content block
 new_stats_block = (
-    f"\n* **LeetCode:** {leetcode_count}\n" f"* **Educative.io:** {educative_count}\n"
+    f"\n* **LeetCode:** {leetcode_count}\n* **Educative.io:** {educative_count}\n"
 )
 
 # 5. Build the final README content by combining the parts

@@ -1,7 +1,8 @@
 # glowing-potato
 data structure and algorithms
 <!---Exercise counting Start-->
-
+* **LeetCode:** 20
+* **Educative.io:** 3
 <!---Exercise counting End-->
 
 <!---LeetCode Topics Start-->
