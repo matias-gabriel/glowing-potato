@@ -1,8 +1,12 @@
 # glowing-potato
 data structure and algorithms
 <!---Exercise counting Start-->
-* **LeetCode:** 20
-* **Educative.io:** 3
+| Platform         | Problems Solved |
+|------------------|-----------------|
+| 💻 [LeetCode](https://leetcode.com/u/matioias/)      | 20          |
+| 📚 [Educative.io](https://www.educative.io/courses/grokking-coding-interview-in-python)  | 3          |
+|------------------|-----------------|
+| 📊 **Total** | **23** |
 <!---Exercise counting End-->
 
 <!---LeetCode Topics Start-->
