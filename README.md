@@ -96,12 +96,14 @@
 | [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/matias-gabriel/glowing-potato/tree/master/0744-network-delay-time) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/matias-gabriel/glowing-potato/tree/master/0744-network-delay-time) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -136,12 +138,14 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
