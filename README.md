@@ -70,6 +70,7 @@
 | [0238-product-of-array-except-self](https://github.com/matias-gabriel/glowing-potato/tree/master/0238-product-of-array-except-self) |
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
+| [0792-binary-search](https://github.com/matias-gabriel/glowing-potato/tree/master/0792-binary-search) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/matias-gabriel/glowing-potato/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0792-binary-search](https://github.com/matias-gabriel/glowing-potato/tree/master/0792-binary-search) |
 ## Union Find
 |  |
 | ------- |
