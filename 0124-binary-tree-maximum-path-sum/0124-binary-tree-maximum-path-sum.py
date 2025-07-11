@@ -25,7 +25,6 @@ class Solution:
         if node.right:
             current_sum.append(result_right[1])
         
-        print(node.val, current_sum, current_path)
         return (current_path, max(current_sum))
 
         
