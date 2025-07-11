@@ -1,6 +1,5 @@
 class Solution(object):
     def generate_permutation(self, nums, indexes, selected, permutations):
-
         for idx, i in enumerate(nums):
             if idx in indexes:
                 continue
@@ -10,13 +9,9 @@ class Solution(object):
             if len(selected) == len(nums):
                 permutations.append(list(selected))
             else:
-                self.generate_permutation(nums, indexes, list(selected),permutations)
+                self.generate_permutation(nums, indexes, list(selected), permutations)
             selected.pop()
             indexes.remove(idx)
-
-
-
-                
 
     def permute(self, nums):
         """
@@ -26,4 +21,3 @@ class Solution(object):
         permutations = []
         self.generate_permutation(nums, set([]), [], permutations)
         return permutations
-        
