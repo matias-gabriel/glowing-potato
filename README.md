@@ -31,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/matias-gabriel/glowing-potato/tree/master/0138-copy-list-with-random-pointer) |
 | [0187-repeated-dna-sequences](https://github.com/matias-gabriel/glowing-potato/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/matias-gabriel/glowing-potato/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
