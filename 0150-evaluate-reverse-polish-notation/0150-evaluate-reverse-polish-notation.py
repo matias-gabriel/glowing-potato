@@ -26,8 +26,6 @@ class Solution:
           n_2 = numbers_stack.pop()
           n_1 = numbers_stack.pop()
           value = self.do_calc(n_1, n_2, i)
-
-          print(value)
           numbers_stack.append(value)
 
       return numbers_stack.pop()
