@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/matias-gabriel/glowing-potato/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@
 | [0015-3sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/matias-gabriel/glowing-potato/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/matias-gabriel/glowing-potato/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/matias-gabriel/glowing-potato/tree/master/0238-product-of-array-except-self) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/matias-gabriel/glowing-potato/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
