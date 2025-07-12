@@ -72,6 +72,7 @@
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/matias-gabriel/glowing-potato/tree/master/0792-binary-search) |
+| [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/matias-gabriel/glowing-potato/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -104,6 +105,7 @@
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/matias-gabriel/glowing-potato/tree/master/0744-network-delay-time) |
+| [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Graph
 |  |
@@ -200,4 +202,5 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
