@@ -1,10 +1,12 @@
 import bisect
 from typing import List
 
+
 class Solution:
     """
     Solves the 'Ship Within Days' problem using binary search on the answer space.
     """
+
     def shipWithinDays(self, weights: List[int], days: int) -> int:
         """
         Calculates the minimum weight capacity of a ship that can ship all packages
@@ -23,6 +25,7 @@ class Solution:
         Returns:
             The minimum capacity required to ship all packages within the given days.
         """
+
         def check_can_ship(capacity: int) -> bool:
             """
             Checks if it's possible to ship all packages within the allowed `days`
