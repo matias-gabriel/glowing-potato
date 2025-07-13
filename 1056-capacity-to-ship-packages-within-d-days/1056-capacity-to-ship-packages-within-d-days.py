@@ -1,19 +1,20 @@
 import bisect
+
+
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
         def check_can_ship(capacity):
             day = 1
             value = 0
             for weight in weights:
-                value+= weight
+                value += weight
 
                 if value > capacity:
-                    day+=1
+                    day += 1
                     value = weight
 
                     if day > days:
-                      return False
-                
+                        return False
 
             return day <= days
 
@@ -23,8 +24,3 @@ class Solution:
         index = bisect.bisect_left(capacities, True, key=check_can_ship)
 
         return capacities[index]
-
-                
-                
-
-        
