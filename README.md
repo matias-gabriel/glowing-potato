@@ -70,6 +70,7 @@
 | [0046-permutations](https://github.com/matias-gabriel/glowing-potato/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/matias-gabriel/glowing-potato/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/matias-gabriel/glowing-potato/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/matias-gabriel/glowing-potato/tree/master/0238-product-of-array-except-self) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/matias-gabriel/glowing-potato/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/matias-gabriel/glowing-potato/tree/master/0403-frog-jump) |
