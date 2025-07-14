@@ -27,5 +27,3 @@ class Solution:
 
         print(values)
         return max(values)
-        
-        
