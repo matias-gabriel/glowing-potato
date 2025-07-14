@@ -55,6 +55,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/matias-gabriel/glowing-potato/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
+| [1250-longest-common-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/matias-gabriel/glowing-potato/tree/master/0403-frog-jump) |
+| [1250-longest-common-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
