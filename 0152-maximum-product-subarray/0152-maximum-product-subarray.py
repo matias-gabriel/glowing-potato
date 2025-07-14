@@ -25,5 +25,6 @@ class Solution:
 
             values[i] = current_max
 
-        print(values)
         return max(values)
+        
+        
