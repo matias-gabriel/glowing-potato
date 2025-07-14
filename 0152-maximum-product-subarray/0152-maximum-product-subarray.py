@@ -26,5 +26,3 @@ class Solution:
             values[i] = current_max
 
         return max(values)
-        
-        
