@@ -76,6 +76,7 @@
 | [0238-product-of-array-except-self](https://github.com/matias-gabriel/glowing-potato/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/matias-gabriel/glowing-potato/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0416-partition-equal-subset-sum) |
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/matias-gabriel/glowing-potato/tree/master/0792-binary-search) |
@@ -139,6 +140,7 @@
 | [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/matias-gabriel/glowing-potato/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/1250-longest-common-subsequence) |
 ## Stack
