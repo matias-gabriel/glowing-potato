@@ -1,4 +1,6 @@
 from collections import deque
+
+
 class Solution(object):
     # min(i, j) = min( min(i-1, j), min(i+1, j), min(i, j-1) , min(i, j+1))
     def updateMatrix(self, mat):
@@ -7,21 +9,21 @@ class Solution(object):
         :rtype: List[List[int]]
         """
 
-        new_matrix = [[float('inf')] * len(i) for i in mat]
+        new_matrix = [[float("inf")] * len(i) for i in mat]
 
         queue = deque([])
 
         for i in range(len(mat)):
             for j in range(len(mat[i])):
                 if mat[i][j] == 0:
-                     queue.append((i,j))
-                     new_matrix[i][j] = 0 
+                    queue.append((i, j))
+                    new_matrix[i][j] = 0
 
         while queue:
             current = queue.popleft()
             i, j = current
             value = new_matrix[i][j]
-            positions = [(i-1, j), (i, j-1), (i+1, j), (i, j+1)]
+            positions = [(i - 1, j), (i, j - 1), (i + 1, j), (i, j + 1)]
 
             for position in positions:
                 p_i, p_j = position
@@ -31,7 +33,5 @@ class Solution(object):
                         queue.append((p_i, p_j))
 
         return new_matrix
-        
-
 
         return mat
