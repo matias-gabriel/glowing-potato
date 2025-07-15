@@ -78,6 +78,7 @@
 | [0403-frog-jump](https://github.com/matias-gabriel/glowing-potato/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0416-partition-equal-subset-sum) |
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
+| [0542-01-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/matias-gabriel/glowing-potato/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/matias-gabriel/glowing-potato/tree/master/0907-koko-eating-bananas) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/matias-gabriel/glowing-potato/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
@@ -142,6 +144,7 @@
 | [0403-frog-jump](https://github.com/matias-gabriel/glowing-potato/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
@@ -221,6 +224,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
