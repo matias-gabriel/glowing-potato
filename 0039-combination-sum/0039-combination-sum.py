@@ -4,12 +4,14 @@ class Solution:
 
         def r(idx, current, path, result):
             if idx >= n:
-                return
+                return 
             if current > target:
-                return
+                return 
             if current == target:
                 print(current)
                 result.append(path[:])
+
+
 
             # r(idx, current) = r(idx+1, current + cand), r(idx, current+cand)
             for i in range(idx, n):
@@ -17,6 +19,11 @@ class Solution:
                 r(i, current + candidates[i], path, result)
                 path.pop()
 
+
         result = []
-        r(0, 0, [], result)
+        r(0,0,[],result)
         return result
+
+
+
+        
