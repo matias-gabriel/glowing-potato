@@ -37,6 +37,7 @@
 | [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/matias-gabriel/glowing-potato/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/matias-gabriel/glowing-potato/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -84,6 +85,7 @@
 | [0238-product-of-array-except-self](https://github.com/matias-gabriel/glowing-potato/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/matias-gabriel/glowing-potato/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/matias-gabriel/glowing-potato/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0494-target-sum) |
@@ -104,6 +106,7 @@
 | [0049-group-anagrams](https://github.com/matias-gabriel/glowing-potato/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
 ## Linked List
 |  |
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
 | [0744-network-delay-time](https://github.com/matias-gabriel/glowing-potato/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -258,4 +262,20 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
