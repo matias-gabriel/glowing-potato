@@ -9,14 +9,11 @@ class Solution:
                 return memo[(idx, target)]
             if idx >= len(coins):
                 return 0
-            
 
-            result = r(idx, target + coins[idx], memo) + r(idx + 1, target, memo) 
+            result = r(idx, target + coins[idx], memo) + r(idx + 1, target, memo)
 
             memo[(idx, target)] = result
 
             return result
 
         return r(0, 0, {})
-
-        
