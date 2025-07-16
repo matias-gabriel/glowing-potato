@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/matias-gabriel/glowing-potato/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/matias-gabriel/glowing-potato/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
@@ -52,6 +53,7 @@
 ## String
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/matias-gabriel/glowing-potato/tree/master/0187-repeated-dna-sequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0516-longest-palindromic-subsequence) |
@@ -69,6 +71,7 @@
 | [0015-3sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/matias-gabriel/glowing-potato/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
+| [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/matias-gabriel/glowing-potato/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/matias-gabriel/glowing-potato/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
@@ -144,6 +147,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/matias-gabriel/glowing-potato/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0213-house-robber-ii) |
@@ -188,6 +192,7 @@
 | ------- |
 | [0046-permutations](https://github.com/matias-gabriel/glowing-potato/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0052-n-queens-ii) |
+| [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
@@ -239,4 +244,12 @@
 | [0542-01-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
