@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/matias-gabriel/glowing-potato/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
 | [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
@@ -190,6 +191,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/matias-gabriel/glowing-potato/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
