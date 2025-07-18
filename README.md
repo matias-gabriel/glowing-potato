@@ -13,10 +13,10 @@
 <!---Exercise counting Start-->
 | Platform         | Problems Solved |
 |------------------|-----------------|
-| 💻 [LeetCode](https://leetcode.com/u/matioias/)      | 47          |
+| 💻 [LeetCode](https://leetcode.com/u/matioias/)      | 48          |
 | 📚 [Educative.io](https://www.educative.io/courses/grokking-coding-interview-in-python)  | 3          |
 |------------------|-----------------|
-| 📊 **Total** | **50** |
+| 📊 **Total** | **51** |
 <!---Exercise counting End-->
 
 </div>

@@ -5,10 +5,12 @@
 #         self.next = next
 
 import heapq
+
+
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         node = None
-        head=None
+        head = None
         heap = []
         memory = {}
 
@@ -37,8 +39,3 @@ class Solution:
                 heapq.heappush(heap, (new_node.val, idx))
 
         return head
-
-
-
-
-        
