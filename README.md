@@ -97,6 +97,7 @@
 | [0518-coin-change-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
+| [0735-asteroid-collision](https://github.com/matias-gabriel/glowing-potato/tree/master/0735-asteroid-collision) |
 | [0769-largest-plus-sign](https://github.com/matias-gabriel/glowing-potato/tree/master/0769-largest-plus-sign) |
 | [0792-binary-search](https://github.com/matias-gabriel/glowing-potato/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/matias-gabriel/glowing-potato/tree/master/0907-koko-eating-bananas) |
@@ -184,6 +185,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/matias-gabriel/glowing-potato/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/matias-gabriel/glowing-potato/tree/master/0735-asteroid-collision) |
 ## Recursion
 |  |
 | ------- |
@@ -293,4 +295,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/matias-gabriel/glowing-potato/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/matias-gabriel/glowing-potato/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
