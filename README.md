@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/matias-gabriel/glowing-potato/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/matias-gabriel/glowing-potato/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
@@ -143,6 +144,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/matias-gabriel/glowing-potato/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
@@ -265,6 +267,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/matias-gabriel/glowing-potato/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -278,4 +281,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/matias-gabriel/glowing-potato/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
