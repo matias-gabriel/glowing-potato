@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/matias-gabriel/glowing-potato/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/matias-gabriel/glowing-potato/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/matias-gabriel/glowing-potato/tree/master/0187-repeated-dna-sequences) |
@@ -78,6 +79,7 @@
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/matias-gabriel/glowing-potato/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/matias-gabriel/glowing-potato/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/matias-gabriel/glowing-potato/tree/master/0152-maximum-product-subarray) |
@@ -252,6 +254,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 ## Matrix
