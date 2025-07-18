@@ -10,7 +10,7 @@ class Solution:
             if not last_negative and asteroid < 0:
                 while True:
                     if not stack:
-                        last_negative = asteroid < 0 
+                        last_negative = asteroid < 0
                         stack.append(asteroid)
                         break
 
@@ -21,7 +21,7 @@ class Solution:
                         stack.append(current)
                         stack.append(asteroid)
                         break
-                        
+
                     p_asteroid = asteroid * -1
 
                     if current == p_asteroid:
@@ -35,6 +35,4 @@ class Solution:
                 last_negative = asteroid < 0
                 stack.append(asteroid)
 
-
         return stack
-        
