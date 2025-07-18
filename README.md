@@ -76,6 +76,7 @@
 | [0046-permutations](https://github.com/matias-gabriel/glowing-potato/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/matias-gabriel/glowing-potato/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/matias-gabriel/glowing-potato/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/matias-gabriel/glowing-potato/tree/master/0152-maximum-product-subarray) |
@@ -157,6 +158,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/matias-gabriel/glowing-potato/tree/master/0152-maximum-product-subarray) |
@@ -221,6 +223,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
 ## Prefix Sum
 |  |
