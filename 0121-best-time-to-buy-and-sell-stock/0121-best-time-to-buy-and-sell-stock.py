@@ -1,6 +1,5 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-
         # buy
         # sell
 
@@ -14,6 +13,4 @@ class Solution:
 
             result = max(result, prices[r] - prices[l])
 
-        
         return result
-        
