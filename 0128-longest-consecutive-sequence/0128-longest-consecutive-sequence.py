@@ -5,22 +5,19 @@ class Solution:
         result = 0
         partial = 0
 
-        for  num in values:
+        for num in values:
             if num in visited:
                 continue
-            
+
             current = num
             while True:
                 visited.add(current)
-                partial+=1
-                if current+1 in values:
-                    current = current+1
+                partial += 1
+                if current + 1 in values:
+                    current = current + 1
                 else:
                     result = max(partial, result)
                     partial = 0
                     break
 
         return result
-            
-                
-        
