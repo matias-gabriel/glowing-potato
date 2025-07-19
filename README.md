@@ -41,6 +41,7 @@
 | [0229-majority-element-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/matias-gabriel/glowing-potato/tree/master/1023-time-based-key-value-store) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/matias-gabriel/glowing-potato/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@
 | [0187-repeated-dna-sequences](https://github.com/matias-gabriel/glowing-potato/tree/master/0187-repeated-dna-sequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/matias-gabriel/glowing-potato/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -249,6 +251,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/matias-gabriel/glowing-potato/tree/master/1023-time-based-key-value-store) |
 ## Data Stream
 |  |
 | ------- |
@@ -262,6 +265,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/matias-gabriel/glowing-potato/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/matias-gabriel/glowing-potato/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/matias-gabriel/glowing-potato/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/matias-gabriel/glowing-potato/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Union Find
 |  |
