@@ -44,6 +44,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/matias-gabriel/glowing-potato/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
@@ -72,6 +73,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/matias-gabriel/glowing-potato/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/matias-gabriel/glowing-potato/tree/master/0046-permutations) |
@@ -229,6 +231,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/matias-gabriel/glowing-potato/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
 ## Prefix Sum
