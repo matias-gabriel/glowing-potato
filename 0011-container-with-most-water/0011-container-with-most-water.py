@@ -6,14 +6,13 @@ class Solution:
         result = 0
 
         while i < j:
-            h = min(height[i-1], height[j-1])
+            h = min(height[i - 1], height[j - 1])
             w = j - i
             result = max(result, h * w)
 
-            if height[j-1] <= height[i-1]:
-                j-=1
+            if height[j - 1] <= height[i - 1]:
+                j -= 1
             else:
-                i+=1
+                i += 1
 
         return result
-        
