@@ -38,6 +38,7 @@
 | [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/matias-gabriel/glowing-potato/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/matias-gabriel/glowing-potato/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -88,6 +89,7 @@
 | [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/matias-gabriel/glowing-potato/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/matias-gabriel/glowing-potato/tree/master/0322-coin-change) |
@@ -112,6 +114,7 @@
 | [0015-3sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/matias-gabriel/glowing-potato/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
@@ -289,6 +292,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
