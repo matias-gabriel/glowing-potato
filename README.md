@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/matias-gabriel/glowing-potato/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/matias-gabriel/glowing-potato/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
@@ -88,6 +89,7 @@
 | [0152-maximum-product-subarray](https://github.com/matias-gabriel/glowing-potato/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/matias-gabriel/glowing-potato/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/matias-gabriel/glowing-potato/tree/master/0238-product-of-array-except-self) |
@@ -240,6 +242,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/matias-gabriel/glowing-potato/tree/master/0238-product-of-array-except-self) |
 ## Design
 |  |
@@ -254,6 +257,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0300-longest-increasing-subsequence) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/matias-gabriel/glowing-potato/tree/master/0792-binary-search) |
