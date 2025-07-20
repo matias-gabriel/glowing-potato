@@ -6,20 +6,18 @@ class Solution:
             if idx >= len(prices):
                 return 0
             if (idx, stock) in memo:
-              return memo[idx, stock]
-            do_nothing=r(idx+1, stock, memo)
+                return memo[idx, stock]
+            do_nothing = r(idx + 1, stock, memo)
             if not stock:
                 # buy
-                result=max(do_nothing, -prices[idx] + r(idx+1, True, memo))
+                result = max(do_nothing, -prices[idx] + r(idx + 1, True, memo))
             else:
                 # sell
-                result=max(do_nothing, prices[idx] + r(idx+2, False, memo))
+                result = max(do_nothing, prices[idx] + r(idx + 2, False, memo))
 
             memo[(idx, stock)] = result
 
             return result
 
-        result = r(0, False,  {})
+        result = r(0, False, {})
         return result
-
-        
