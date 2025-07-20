@@ -109,6 +109,7 @@
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/matias-gabriel/glowing-potato/tree/master/0735-asteroid-collision) |
 | [0769-largest-plus-sign](https://github.com/matias-gabriel/glowing-potato/tree/master/0769-largest-plus-sign) |
+| [0772-construct-quad-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/matias-gabriel/glowing-potato/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/matias-gabriel/glowing-potato/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
@@ -212,6 +213,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0772-construct-quad-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -286,6 +288,7 @@
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
+| [0772-construct-quad-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0772-construct-quad-tree) |
 | [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
 ## Trie
 |  |
@@ -301,6 +304,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/matias-gabriel/glowing-potato/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
+| [0772-construct-quad-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0772-construct-quad-tree) |
 ## Bucket Sort
 |  |
 | ------- |
