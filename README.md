@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/matias-gabriel/glowing-potato/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/matias-gabriel/glowing-potato/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0202-happy-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/matias-gabriel/glowing-potato/tree/master/2206-detonate-the-maximum-bombs) |
@@ -176,6 +177,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/matias-gabriel/glowing-potato/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/matias-gabriel/glowing-potato/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -292,6 +294,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/matias-gabriel/glowing-potato/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 ## Divide and Conquer
 |  |
