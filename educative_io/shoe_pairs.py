@@ -42,7 +42,6 @@ def shoe_pairs(shoes):
 
 
 class TestShoePairs(unittest.TestCase):
-
     def test_empty_list(self):
         """Test with an empty list of shoes."""
         self.assertTrue(
