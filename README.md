@@ -205,6 +205,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/matias-gabriel/glowing-potato/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/matias-gabriel/glowing-potato/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/matias-gabriel/glowing-potato/tree/master/0735-asteroid-collision) |
 ## Recursion
@@ -263,6 +264,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/matias-gabriel/glowing-potato/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/matias-gabriel/glowing-potato/tree/master/1023-time-based-key-value-store) |
