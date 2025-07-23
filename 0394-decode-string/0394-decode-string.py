@@ -7,8 +7,8 @@ class Solution:
             if letter.isnumeric():
                 n = ""
                 while letter.isnumeric():
-                    n= n+letter
-                    idx+=1
+                    n = n + letter
+                    idx += 1
                     letter = s[idx]
                 brackets_stack.append(n)
                 continue
@@ -27,10 +27,6 @@ class Solution:
                 new_s = list(value * inner_letters)
 
                 brackets_stack = brackets_stack + new_s
-            idx+=1
+            idx += 1
 
         return "".join(brackets_stack)
-
-
-
-        
