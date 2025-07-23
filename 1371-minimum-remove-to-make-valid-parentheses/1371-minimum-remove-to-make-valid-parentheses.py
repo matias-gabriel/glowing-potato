@@ -15,7 +15,7 @@ class Solution:
                     if last_item == "(":
                         parenthesis_stack.pop()
                         continue
-            
+
             parenthesis_stack.append((letter, idx))
 
         result = ""
@@ -25,12 +25,6 @@ class Solution:
             if idx in not_allowed_idx:
                 continue
 
-            result+=s
+            result += s
 
         return result
-
-                    
-
-
-
-        
