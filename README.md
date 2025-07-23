@@ -70,6 +70,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/matias-gabriel/glowing-potato/tree/master/1023-time-based-key-value-store) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -210,6 +211,7 @@
 | [0155-min-stack](https://github.com/matias-gabriel/glowing-potato/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/matias-gabriel/glowing-potato/tree/master/0735-asteroid-collision) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/matias-gabriel/glowing-potato/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
