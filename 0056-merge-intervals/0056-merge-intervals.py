@@ -24,4 +24,3 @@ class Solution:
             results.append(prev)
 
         return results
-        
