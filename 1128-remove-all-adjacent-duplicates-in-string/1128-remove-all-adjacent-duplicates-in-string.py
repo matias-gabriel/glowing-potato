@@ -10,5 +10,4 @@ class Solution:
             if not is_removed:
                 word_stack.append(letter)
 
-        return ''.join(word_stack)
-        
+        return "".join(word_stack)
