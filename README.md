@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/matias-gabriel/glowing-potato/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/matias-gabriel/glowing-potato/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/matias-gabriel/glowing-potato/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -137,6 +138,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/matias-gabriel/glowing-potato/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/matias-gabriel/glowing-potato/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -219,6 +221,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/matias-gabriel/glowing-potato/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/matias-gabriel/glowing-potato/tree/master/0394-decode-string) |
 ## Tree
