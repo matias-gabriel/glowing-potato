@@ -1,9 +1,10 @@
-
 # 9 9 9 9 9
-# 9 9 9 9 9 
-# 8 
+# 9 9 9 9 9
+# 8
 class Solution:
-    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+    def addTwoNumbers(
+        self, l1: Optional[ListNode], l2: Optional[ListNode]
+    ) -> Optional[ListNode]:
         prev_head = ListNode(0, None)
         node = prev_head
         residual = 0
@@ -18,15 +19,9 @@ class Solution:
             else:
                 residual = 0
 
-            node.next =  ListNode(new_value, None)
+            node.next = ListNode(new_value, None)
             node = node.next
             l1 = l1.next if l1 else None
             l2 = l2.next if l2 else None
 
         return prev_head.next
-
-
-
-
-        
-        
