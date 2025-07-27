@@ -31,6 +31,7 @@
 | [0070-climbing-stairs](https://github.com/matias-gabriel/glowing-potato/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/matias-gabriel/glowing-potato/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/matias-gabriel/glowing-potato/tree/master/0202-happy-number) |
+| [1014-k-closest-points-to-origin](https://github.com/matias-gabriel/glowing-potato/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/matias-gabriel/glowing-potato/tree/master/2206-detonate-the-maximum-bombs) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@
 | [0772-construct-quad-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/matias-gabriel/glowing-potato/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/matias-gabriel/glowing-potato/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/matias-gabriel/glowing-potato/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/matias-gabriel/glowing-potato/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2206-detonate-the-maximum-bombs](https://github.com/matias-gabriel/glowing-potato/tree/master/2206-detonate-the-maximum-bombs) |
@@ -135,6 +137,7 @@
 | [0295-find-median-from-data-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
+| [1014-k-closest-points-to-origin](https://github.com/matias-gabriel/glowing-potato/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -181,6 +184,7 @@
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
 | [0744-network-delay-time](https://github.com/matias-gabriel/glowing-potato/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/matias-gabriel/glowing-potato/tree/master/1014-k-closest-points-to-origin) |
 ## Shortest Path
 |  |
 | ------- |
@@ -324,6 +328,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/matias-gabriel/glowing-potato/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0772-construct-quad-tree) |
+| [1014-k-closest-points-to-origin](https://github.com/matias-gabriel/glowing-potato/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -337,6 +342,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/matias-gabriel/glowing-potato/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -348,5 +354,6 @@
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/matias-gabriel/glowing-potato/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/matias-gabriel/glowing-potato/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
