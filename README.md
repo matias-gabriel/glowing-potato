@@ -113,6 +113,7 @@
 | [0347-top-k-frequent-elements](https://github.com/matias-gabriel/glowing-potato/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/matias-gabriel/glowing-potato/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0416-partition-equal-subset-sum) |
+| [0473-matchsticks-to-square](https://github.com/matias-gabriel/glowing-potato/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/matias-gabriel/glowing-potato/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0518-coin-change-ii) |
@@ -209,6 +210,7 @@
 | [0337-house-robber-iii](https://github.com/matias-gabriel/glowing-potato/tree/master/0337-house-robber-iii) |
 | [0403-frog-jump](https://github.com/matias-gabriel/glowing-potato/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0416-partition-equal-subset-sum) |
+| [0473-matchsticks-to-square](https://github.com/matias-gabriel/glowing-potato/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/matias-gabriel/glowing-potato/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0518-coin-change-ii) |
@@ -259,11 +261,13 @@
 | [0046-permutations](https://github.com/matias-gabriel/glowing-potato/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
+| [0473-matchsticks-to-square](https://github.com/matias-gabriel/glowing-potato/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/matias-gabriel/glowing-potato/tree/master/0187-repeated-dna-sequences) |
+| [0473-matchsticks-to-square](https://github.com/matias-gabriel/glowing-potato/tree/master/0473-matchsticks-to-square) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -362,4 +366,8 @@
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/matias-gabriel/glowing-potato/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/matias-gabriel/glowing-potato/tree/master/2206-detonate-the-maximum-bombs) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/matias-gabriel/glowing-potato/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
