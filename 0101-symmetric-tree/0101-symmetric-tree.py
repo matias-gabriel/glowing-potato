@@ -19,5 +19,4 @@ class Solution:
 
             return node_1.val == node_2.val
 
-
         return check_symmetric(root.left, root.right)
