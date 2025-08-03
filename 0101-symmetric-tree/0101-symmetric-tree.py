@@ -11,7 +11,6 @@ class Solution:
                 return True
             if not node_1 or not node_2:
                 return False
-            print(node_1.val, node_2.val)
 
             if not check_symmetric(node_1.left, node_2.right):
                 return False
