@@ -8,12 +8,13 @@ class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
         initial_path = []
         final_results = []
+
         def get_count(node, target, path, results):
             if not node:
                 return
             if target == 0 and not node.left and not node.right:
                 results.append(path[:])
-                return 
+                return
             if node.left:
                 path.append(node.left.val)
                 get_count(node.left, target - node.left.val, path, results)
@@ -29,6 +30,3 @@ class Solution:
 
         get_count(root, targetSum - root.val, [root.val], final_results)
         return final_results
-
-            
-        
