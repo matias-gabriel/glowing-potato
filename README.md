@@ -154,6 +154,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
@@ -241,6 +242,7 @@
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0226-invert-binary-tree) |
@@ -253,6 +255,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0226-invert-binary-tree) |
@@ -268,6 +271,7 @@
 | [0039-combination-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/matias-gabriel/glowing-potato/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0052-n-queens-ii) |
+| [0113-path-sum-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/matias-gabriel/glowing-potato/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0494-target-sum) |
