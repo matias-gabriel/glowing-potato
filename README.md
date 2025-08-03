@@ -164,6 +164,7 @@
 | [0744-network-delay-time](https://github.com/matias-gabriel/glowing-potato/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/matias-gabriel/glowing-potato/tree/master/2206-detonate-the-maximum-bombs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/matias-gabriel/glowing-potato/tree/master/2206-detonate-the-maximum-bombs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [0772-construct-quad-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0772-construct-quad-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -257,6 +260,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
