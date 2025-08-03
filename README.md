@@ -157,6 +157,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/matias-gabriel/glowing-potato/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/matias-gabriel/glowing-potato/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
@@ -239,6 +241,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/matias-gabriel/glowing-potato/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0772-construct-quad-tree) |
@@ -249,6 +252,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/matias-gabriel/glowing-potato/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/matias-gabriel/glowing-potato/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/matias-gabriel/glowing-potato/tree/master/0789-kth-largest-element-in-a-stream) |
