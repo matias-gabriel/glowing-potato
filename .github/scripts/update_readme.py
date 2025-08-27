@@ -6,6 +6,7 @@ README_PATH = "README.md"
 START_TAG = "<!---Exercise counting Start-->"
 END_TAG = "<!---Exercise counting End-->"
 EDUCATIVE_DIR = "educative_io"
+BCTI_DIR = "bcti"
 
 # --- Logic ---
 print("Starting README update script...")
@@ -19,7 +20,12 @@ if os.path.isdir(EDUCATIVE_DIR):
     educative_count = sum(
         1 for item in os.listdir(EDUCATIVE_DIR) if item.endswith(".py")
     )
-total_count = leetcode_count + educative_count
+bcti_count = 0
+if os.path.isdir(BCTI_DIR):
+    bcti_count = sum(
+        1 for item in os.listdir(BCTI_DIR) if item.endswith(".py")
+    )
+total_count = leetcode_count + educative_count + bcti_count
 
 # 2. Read the existing README content
 try:
@@ -42,13 +48,15 @@ except ValueError:
 
 # 4. Build the new content block with a total row
 new_stats_block = (
-    "\n"
-    "| Platform         | Problems Solved |\n"
-    "|------------------|-----------------|\n"
-    f"| 💻 [LeetCode](https://leetcode.com/u/matioias/)      | {leetcode_count}          |\n"
-    f"| 📚 [Educative.io](https://www.educative.io/courses/grokking-coding-interview-in-python)  | {educative_count}          |\n"
-    "|------------------|-----------------|\n"
-    f"| 📊 **Total** | **{total_count}** |\n"
+    f"""
+| Platform         | Problems Solved |
+|------------------|-----------------|
+| 💻 [LeetCode](https://leetcode.com/u/matioias/)      | {leetcode_count}          |
+| 📚 [Educative.io](https://www.educative.io/courses/grokking-coding-interview-in-python)  | {educative_count}          |
+| 📖 [BCTI](https://www.amazon.com/Beyond-Cracking-Coding-Interview-Data-Structures-and-Algorithms-based-Interview-Questions/dp/B08B3FW26P)  | {bcti_count}          |
+|------------------|-----------------|
+| 📊 **Total** | **{total_count}** |
+"""
 )
 
 # 5. Build the final README content
@@ -62,5 +70,5 @@ with open(README_PATH, "w", encoding="utf-8") as f:
 
 print(
     f"Successfully updated README: LeetCode={leetcode_count}, "
-    f"Educative.io={educative_count}, Total={total_count}"
+    f"Educative.io={educative_count}, BCTI={bcti_count}, Total={total_count}"
 )
