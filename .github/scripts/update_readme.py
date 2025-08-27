@@ -22,9 +22,7 @@ if os.path.isdir(EDUCATIVE_DIR):
     )
 bcti_count = 0
 if os.path.isdir(BCTI_DIR):
-    bcti_count = sum(
-        1 for item in os.listdir(BCTI_DIR) if item.endswith(".py")
-    )
+    bcti_count = sum(1 for item in os.listdir(BCTI_DIR) if item.endswith(".py"))
 total_count = leetcode_count + educative_count + bcti_count
 
 # 2. Read the existing README content
@@ -47,8 +45,7 @@ except ValueError:
     exit(1)
 
 # 4. Build the new content block with a total row
-new_stats_block = (
-    f"""
+new_stats_block = f"""
 | Platform         | Problems Solved |
 |------------------|-----------------|
 | 💻 [LeetCode](https://leetcode.com/u/matioias/)      | {leetcode_count}          |
@@ -57,7 +54,6 @@ new_stats_block = (
 |------------------|-----------------|
 | 📊 **Total** | **{total_count}** |
 """
-)
 
 # 5. Build the final README content
 updated_content = (
