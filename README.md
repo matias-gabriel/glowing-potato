@@ -15,9 +15,9 @@
 |------------------|-----------------|
 | 💻 [LeetCode](https://leetcode.com/u/matioias/)      | 76          |
 | 📚 [Educative.io](https://www.educative.io/courses/grokking-coding-interview-in-python)  | 4          |
-| 📖 [BCTI](https://www.amazon.com/Beyond-Cracking-Coding-Interview-Data-Structures-and-Algorithms-based-Interview-Questions/dp/B08B3FW26P)  | 0          |
+| 📖 [Beyond CTCI](https://www.beyondctci.com/)  | 1          |
 |------------------|-----------------|
-| 📊 **Total** | **80** |
+| 📊 **Total** | **81** |
 <!---Exercise counting End-->
 
 </div>
