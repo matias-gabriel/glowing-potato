@@ -22,7 +22,9 @@ if os.path.isdir(EDUCATIVE_DIR):
     )
 beyond_ctci_count = 0
 if os.path.isdir(BEYOND_CTCI_DIR):
-    beyond_ctci_count = sum(1 for item in os.listdir(BEYOND_CTCI_DIR) if item.endswith(".py"))
+    beyond_ctci_count = sum(
+        1 for item in os.listdir(BEYOND_CTCI_DIR) if item.endswith(".py")
+    )
 total_count = leetcode_count + educative_count + beyond_ctci_count
 
 # 2. Read the existing README content
