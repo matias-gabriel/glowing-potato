@@ -4,7 +4,7 @@
   A repository dedicated to solving Data Structures and Algorithms problems.
 </p>
 <p align="center">
-  <img width="300" height="300" alt="repository-banner" src="https://github.com/user-attachments/assets/325a1209-0ab0-49a8-91bf-50121c3c1b74" />
+  <img width="300" height="300" alt="repository-banner" src="https://github.com/user-attachments/assets/1fcc148d-6bea-4dc0-adb5-90d33f2b121d" />
 </p>
 
 <div align="center">
