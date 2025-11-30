@@ -94,6 +94,7 @@
 | [0039-combination-sum](https://github.com/matias-gabriel/glowing-potato/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/matias-gabriel/glowing-potato/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/matias-gabriel/glowing-potato/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/matias-gabriel/glowing-potato/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/matias-gabriel/glowing-potato/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -339,6 +340,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
@@ -381,6 +383,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/matias-gabriel/glowing-potato/tree/master/0735-asteroid-collision) |
 ## Geometry
 |  |
