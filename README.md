@@ -13,11 +13,11 @@
 <!---Exercise counting Start-->
 | Platform         | Problems Solved |
 |------------------|-----------------|
-| 💻 [LeetCode](https://leetcode.com/u/matioias/)      | 76          |
+| 💻 [LeetCode](https://leetcode.com/u/matioias/)      | 77          |
 | 📚 [Educative.io](https://www.educative.io/courses/grokking-coding-interview-in-python)  | 4          |
 | 📖 [Beyond CTCI](https://www.beyondctci.com/)  | 1          |
 |------------------|-----------------|
-| 📊 **Total** | **81** |
+| 📊 **Total** | **82** |
 <!---Exercise counting End-->
 
 </div>
