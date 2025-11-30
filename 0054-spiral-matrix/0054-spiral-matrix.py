@@ -1,30 +1,57 @@
 class Solution:
-    def spiralOrder(self, matrix):
-        res = []
-        top, bottom = 0, len(matrix) - 1
-        left, right = 0, len(matrix[0]) - 1
+  def spiralOrder(self, matrix):
+    # What makes me change the direction?
+    # out of bound, or visited, or visited directions
+    # [0, 1] -> right
+    # [1, 0] -> down
+    # [0, -1] -> left
+    # [-1, 0] -> up
+    
+    # right-> 1,2,3, down -> 6,9 -> left, 8, 7 -> up -> 4
+    directions = [[0,1], [1,0], [0, -1], [-1, 0]]
+    direction = [0,1]
+    position = (0,0)
 
-        while top <= bottom and left <= right:
-            # Top row
-            for i in range(left, right + 1):
-                res.append(matrix[top][i])
-            top += 1
+    output = []
+    visited = set([])
 
-            # Right column
-            for i in range(top, bottom + 1):
-                res.append(matrix[i][right])
-            right -= 1
+    def is_valid(pos):
+      return pos not in visited and 0 <= pos[0] < len(matrix) and 0 <= pos[1] < len(matrix[0])
 
-            if top <= bottom:
-                # Bottom row
-                for i in range(right, left - 1, -1):
-                    res.append(matrix[bottom][i])
-                bottom -= 1
+    def get_next_direction(pos):
+      directions.append(directions.pop(0))
 
-            if left <= right:
-                # Left column
-                for i in range(bottom, top - 1, -1):
-                    res.append(matrix[i][left])
-                left += 1
+      while direction != directions[0]:
+        new_direction = directions[0]
+        new_position = (pos[0] + new_direction[0], pos[1] + new_direction[1])
+        if is_valid(new_position):
+          return new_direction
 
-        return res
+        directions.append(directions.pop(0))
+
+      return None
+
+    while position:
+      visited.add(position)
+      output.append(matrix[position[0]][position[1]])
+
+      print(direction)
+      if direction:
+        new_position = (position[0] + direction[0], position[1] + direction[1])
+        if is_valid(new_position):
+          position = new_position
+          continue
+        else:
+          direction = get_next_direction(position)
+          if direction:
+            position = (position[0] + direction[0], position[1] + direction[1])
+          else:
+            break
+      else:
+        break
+
+    return output
+
+      
+    
+      
