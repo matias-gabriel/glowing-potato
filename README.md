@@ -96,6 +96,7 @@
 | [0049-group-anagrams](https://github.com/matias-gabriel/glowing-potato/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/matias-gabriel/glowing-potato/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/matias-gabriel/glowing-potato/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/matias-gabriel/glowing-potato/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -207,6 +208,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/matias-gabriel/glowing-potato/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/matias-gabriel/glowing-potato/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -341,6 +343,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/matias-gabriel/glowing-potato/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/matias-gabriel/glowing-potato/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
