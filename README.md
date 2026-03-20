@@ -128,6 +128,7 @@
 | [0792-binary-search](https://github.com/matias-gabriel/glowing-potato/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/matias-gabriel/glowing-potato/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/matias-gabriel/glowing-potato/tree/master/1014-k-closest-points-to-origin) |
+| [1020-number-of-enclaves](https://github.com/matias-gabriel/glowing-potato/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/matias-gabriel/glowing-potato/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2206-detonate-the-maximum-bombs](https://github.com/matias-gabriel/glowing-potato/tree/master/2206-detonate-the-maximum-bombs) |
@@ -168,6 +169,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/matias-gabriel/glowing-potato/tree/master/0744-network-delay-time) |
+| [1020-number-of-enclaves](https://github.com/matias-gabriel/glowing-potato/tree/master/1020-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/matias-gabriel/glowing-potato/tree/master/2206-detonate-the-maximum-bombs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -182,6 +184,7 @@
 | [0542-01-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/matias-gabriel/glowing-potato/tree/master/0744-network-delay-time) |
+| [1020-number-of-enclaves](https://github.com/matias-gabriel/glowing-potato/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/matias-gabriel/glowing-potato/tree/master/2206-detonate-the-maximum-bombs) |
@@ -348,6 +351,7 @@
 | [0542-01-matrix](https://github.com/matias-gabriel/glowing-potato/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/matias-gabriel/glowing-potato/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/matias-gabriel/glowing-potato/tree/master/0772-construct-quad-tree) |
+| [1020-number-of-enclaves](https://github.com/matias-gabriel/glowing-potato/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/matias-gabriel/glowing-potato/tree/master/1036-rotting-oranges) |
 ## Trie
 |  |
@@ -397,4 +401,8 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/matias-gabriel/glowing-potato/tree/master/0473-matchsticks-to-square) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/matias-gabriel/glowing-potato/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
